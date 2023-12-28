@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Man';
+    font-weight: 800;
+    src: url(./Manrope-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Man';
+    font-weight: 700;
+    src: url(./Manrope-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Man';
+    font-weight: 400;
+    src: url(./Manrope-Regular.ttf);
+}
